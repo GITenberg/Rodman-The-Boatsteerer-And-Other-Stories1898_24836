@@ -1,0 +1,38 @@
+_repo: Rodman-The-Boatsteerer-And-Other-Stories1898_24836
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Becke, Louis
+    alias: Becke, George Louis
+    birthdate: 1855
+    deathdate: 1913
+    gutenberg_agent_id: '1317'
+    url: http://www.gutenberg.org/2009/agents/1317
+    wikipedia: http://en.wikipedia.org/wiki/George_Lewis_Becke
+description: ''
+gutenberg_issued: '2008-03-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24836'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Pacific Area -- Social life and customs -- Fiction'
+- !lcsh 'Short stories'
+- !lcsh 'Oceania -- Fiction'
+- !lcc 'PR'
+tableOfContents: Rodman the boatsteerer -- A point of theology on Maduro -- A man
+  of impulse -- The trader -- Mrs. Clinton -- The cutting off of the "Queen Charlotte"
+  -- The Peruvian slavers -- A question of precedence -- A touch of the tar-brush
+  -- The trader's wife -- Nina -- The East Indian cousin -- Proctor the drunkard --
+  A Ponapean convenance -- In the king's service -- Oxley, the privateersman -- The
+  escapee -- Ema, the half-blood -- Leassé -- The trouble with Jinaban.
+title: 'Rodman The Boatsteerer And Other Stories
+
+  1898'
+url: http://www.gutenberg.org/ebooks/24836
